@@ -134,6 +134,7 @@ _More community skills coming soon! Submit a PR to add your skill._
 ### Tools
 
 - **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Convert documentation websites into Claude Skills
+- **[No Stairs Please MCP](https://nostairsplease.com/mcp)** - Remote MCP server for searching 2,200+ North American live-music venues, drive-time routing, and booking contacts
 
 ## ✏️ Creating Your First Skill
 
